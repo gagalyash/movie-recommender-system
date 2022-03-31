@@ -9,7 +9,10 @@ There are mainly 2 types of recommendation systems:
 
 **In this project, we are building a Content-based recommendation engine for movies.**
 
-- Dataset Link -> https://www.kaggle.com/tmdb/tmdb-movie-metadata
+# Links and Resources Used
+<li>Streamlit Library: <a href="https://www.streamlit.io/">https://www.streamlit.io/</a>
+<li>Dataset Link: <a href=" https://www.kaggle.com/tmdb/tmdb-movie-metadata"> https://www.kaggle.com/tmdb/tmdb-movie-metadata<a>
+<li>Packages: pandas, numpy, sklearn, streamlit</li>
 
 ## About Dataset
 - The first dataset, **'tmdb_5000_credits.csv'** contains the following features:
