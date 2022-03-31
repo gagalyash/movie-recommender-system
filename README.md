@@ -7,8 +7,6 @@ There are mainly 2 types of recommendation systems:
 1. **Content-based Filtering:** These suggest recommendations based on the item metadata (movie, product, song, etc). Here, the main idea is if a user likes an item, then the user will also like items similar to it.
 2. **Collaboration-based Filtering:** These systems make recommendations by grouping the users with similar interests. For this system, metadata of the item is not required.
 
-**In this project, we are building a Content-based recommendation engine for movies.**
-
 # Links and Resources Used
 <li>Streamlit Library: <a href="https://www.streamlit.io/">https://www.streamlit.io/</a>
 <li>Dataset Link: <a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata/"> https://www.kaggle.com/tmdb/tmdb-movie-metadata/<a>
@@ -44,7 +42,10 @@ There are mainly 2 types of recommendation systems:
 - title - Title of the movie.
 - vote_average - average ratings the movie recieved.
 - vote_count - the count of votes recieved.
-
+  
+# Inspiration
+- In this project, we are building a Content-based movie recommender system to predict top 5 movies.
+  
 # Model Deployment
 I have deployed the model using Streamlit library on Heroku which is a Platform As A Service(PAAS)
 
