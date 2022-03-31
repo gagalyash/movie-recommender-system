@@ -12,7 +12,7 @@ There are mainly 2 types of recommendation systems:
 # Links and Resources Used
 <li>Streamlit Library: <a href="https://www.streamlit.io/">https://www.streamlit.io/</a>
 <li>Dataset Link: <a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata/"> https://www.kaggle.com/tmdb/tmdb-movie-metadata/<a>
-<li>Packages: pandas, numpy, sklearn, streamlit</li>
+<li>Packages: pandas, numpy, nltk, sklearn, streamlit</li>
 
 ## About Dataset
 - The first dataset, **'tmdb_5000_credits.csv'** contains the following features:
@@ -44,3 +44,7 @@ There are mainly 2 types of recommendation systems:
 - vote_average - average ratings the movie recieved.
 - vote_count - the count of votes recieved.
 
+# Model Deployment
+I have deployed the model using Streamlit library on Heroku which is a Platform As A Service(PAAS)
+
+Web application: <a href="https://movie-recommender-system-yg.herokuapp.com/">https://movie-recommender-system-yg.herokuapp.com/</a>
