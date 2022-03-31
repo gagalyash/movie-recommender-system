@@ -11,7 +11,7 @@ There are mainly 2 types of recommendation systems:
 
 # Links and Resources Used
 <li>Streamlit Library: <a href="https://www.streamlit.io/">https://www.streamlit.io/</a>
-<li>Dataset Link: <a href=" https://www.kaggle.com/tmdb/tmdb-movie-metadata/"> https://www.kaggle.com/tmdb/tmdb-movie-metadata/<a>
+<li>Dataset Link: <a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata/"> https://www.kaggle.com/tmdb/tmdb-movie-metadata/<a>
 <li>Packages: pandas, numpy, sklearn, streamlit</li>
 
 ## About Dataset
